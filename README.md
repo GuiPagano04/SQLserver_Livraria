@@ -1,6 +1,8 @@
 # SQLserver_Livraria
 
-Este é um projeto criado em linguagem SQL, de um sistema de uma livrária, todo código foi feito 100% no SSMS(SQL Server Management Studio), e estarei disponibilizando aqui em sequencia as regras de negócio e o modelo entidade-relacionamento  
+Este é um projeto criado em linguagem SQL, de um sistema de uma livrária, todo código foi feito 100% no SSMS(SQL Server Management Studio) incluindo análises de dados.
+
+Estarei disponibilizando aqui em sequencia as regras de negócio e o modelo entidade-relacionamento:  
 
 ## Regras de Negócio Sistema de Gestão de Livros 
   
@@ -34,4 +36,7 @@ Este é um projeto criado em linguagem SQL, de um sistema de uma livrária, todo
   - Pedidos (Pedido_id, Cliente_id, Vendedor_id, Livro_id, Data_pedido, Quantidade, 
     Valor_total).
 
-![Texto alternativo](C:\Users\Usuario\Desktop\Curso Hashtag SQL\Portfólio SQL\Modelo lógico\Modelo diagrama ER Livraria)
+## Modelo Lógico Entidade Relacionamento
+
+![Modelo diagrama ER Livraria](https://github.com/user-attachments/assets/dc75ac00-4add-4830-9cbc-88a6d2fbbb71)
+
